@@ -1,0 +1,50 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #1e1939;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #1e1939);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #1e1939);
+    }
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+.bg-custom1 {
+    background-color: #1e1939;
+}
+
+.border-login-password{
+    border-radius: 3rem;
+}
+.circle-one{
+    color: white;
+    display: inline-block;
+}
+.circle-two{
+    color: white;
+}
+p.font-color{
+    color: white;
+}
+.entrar{
+    background-color: #00cafe;
+    height:16;
+}
+.entrar:hover{
+    background-color: #02c4ff;
+}
+.cadastre-se{
+    color: aliceblue;
+}
+.cadastre-se:hover{
+    color: #00cafe;
+}
+a:hover{
+    text-decoration:none;
+    color: aliceblue;
+}
+.display-inline-block{
+    display: inline-block;
+}
